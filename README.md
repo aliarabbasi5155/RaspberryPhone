@@ -8,7 +8,7 @@ Here you can see the complete RP diagram
 # Working Procedure
 Basically it's inital release of RP and it has made under educational purposes as above mentioned.
 It needs a physical keyboard to work properly but you can attach a keypad if you want.
-If you want to use RP in Full-Feature mode you should run 'RaspberryPhone.py' file with  su previlages but if you want to check each feature seperately you can run these files:
+If you want to use RP in Full-Feature mode you should run `RaspberryPhone.py` file with  su previlages but if you want to check each feature seperately you can run these files:
 
 `MakeCall.py` --> To call others
 
@@ -16,5 +16,5 @@ If you want to use RP in Full-Feature mode you should run 'RaspberryPhone.py' fi
 
 `SendMessage.py` --> To send messages to others
 
-`ReceiveMessage` --> To receive messages from others
+`ReceiveMessage.py` --> To receive messages from others
 
