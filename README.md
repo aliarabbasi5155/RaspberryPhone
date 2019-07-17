@@ -1,6 +1,11 @@
 # Raspberry Phone
 A simple Raspberry-Pi-Based phone with 4 operations: making calls,receiving calls,sending messages,receiving messages.This project completely has made under educational purposes.
 
+# Requirements
+- Raspberry Pi 3 B
+- Sim800c (or other compatible Simxxx module)
+- Microphone
+
 # Circuit Diagram
 Here you can see the complete RP diagram 
 ![alt text](https://github.com/aliarabbasi5155/RaspberryPhone/blob/master/RaspberryPhone.jpg)
