@@ -4,6 +4,7 @@ A simple Raspberry-Pi-Based phone with 4 operations: making calls,receiving call
 # Requirements
 - Raspberry Pi 3 B
 - Sim800c (or other compatible Simxxx module)
+- Character LCD 16x2
 - Microphone
 
 # Circuit Diagram
