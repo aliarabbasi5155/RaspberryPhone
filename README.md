@@ -1,5 +1,5 @@
 # Raspberry Phone
-A simple Raspberry-Pi-Based phone with 4 operations: making calls,receiving calls,sending messages,receiving messages.This project completely has made under educational purposes.
+A simple Raspberry-Pi-Based phone with 4 operations: making calls,receiving calls,sending messages,receiving messages.This project completely has been made under educational purposes.
 
 ## Requirements
 - 1 x Raspberry Pi 3 B
